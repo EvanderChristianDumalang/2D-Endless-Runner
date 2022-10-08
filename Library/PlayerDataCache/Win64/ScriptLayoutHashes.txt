@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-E:/Code/Github/2D Endless Runner/2D-Endless-Runner/Build/2D Endless Runner.exe
+E:/Code/Github/2D-Endless-Runner/Build/2D Endless Runner.exe
 SceneListBegin?
 Assets/Scenes/Game.unity
 SceneListEnd?
