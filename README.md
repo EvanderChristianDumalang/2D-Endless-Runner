@@ -22,7 +22,7 @@
 
 ## Documentation
 
-### App Preview
+### Game Preview
 <img src="Preview/main.png" width="400" height="200"> <img src="Preview/obstacle.png" width="400" height="200"> <img src="Preview/over.png" width="400" height="200">
 
 ### Demo
