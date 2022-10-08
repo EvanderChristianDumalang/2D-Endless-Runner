@@ -5,7 +5,7 @@
 
 # 2D Endless Runner Game
 
-## Feature
+## Features
 
 1. Obstacle
 2. Parallax
